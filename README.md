@@ -4,13 +4,12 @@
 This Android application helps users detect diseases in plant leaves using AI-powered image classification. It provides disease details, remedies, and a seamless user experience with local history, multilingual support, and more.
 
 ---
-![App Screenshot](https://raw.githubusercontent.com/Adilkhan656/Plant-Leaf-disease/master/APP%20UI.jpeg)
+
 
 
 ## 📚 Table of Contents
 
 - [✨ Features](#-features)
-- [📱 Screenshots](#-screenshots)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Getting Started](#-getting-started)
 - [📩 Contact](#-contact)
@@ -64,14 +63,14 @@ This Android application helps users detect diseases in plant leaves using AI-po
 - **Multilingual Support**
 - **Email Intent for Support**
 
----
+---![App Screenshot](https://raw.githubusercontent.com/Adilkhan656/Plant-Leaf-disease/master/APP%20Features.jpeg)
 
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+- Clone the repository:
    ```bash
    git clone https://github.com/yourusername/plant-leaf-disease-detector.git
 
-📩 Contact
+## 📩 Contact
 If you have any questions, feel free to contact me through the Contact Support section of the app or connect via the Follow Me section.
