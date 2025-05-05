@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فصل چیکر</string>
+    <string name="home">ہوم</string>
+    <string name="capture">تصویر لیں</string>
+    <string name="settings">ترتیبات</string>
+    <string name="language">زبان</string>
+    <string name="notifications">اطلاعات</string>
+    <string name="contact_support">مدد سے رابطہ کریں</string>
+    <string name="about_app">ایپ کے بارے میں</string>
+    <string name="logout">لاگ آؤٹ</string>
+    <string name="choose_language">زبان منتخب کریں</string>
+    <string name="select_from_gallery">گیلری سے منتخب کریں</string>
+    <string name="click_to_predict">پیش گوئی کے لیے کلک کریں</string>
+    <string name="camera">کیمیرا</string>
+    <string name="gallery">گلری</string>
+    <string name="prediction_result">پردیکشن ریزولٹ</string>
+    <string name="history">تاریخ</string>
+    <string name="upload_your_image_here">یہاں اپنی تصویر اپلوڈ کریں</string>
+    <string name="quick_detection_better_protection">جلدی سے شناخت. بہتر حفاظت.</string>
+    <string name="disease_name">بیماری کا نام</string>
+    <string name="timestamp">ٹائم استمپ</string>
+    <string name="welcome_message">𓆑کراپ چیکر</string>
+    <string name="sign_in">سائن ان کریں</string>
+    <string name="sign_up">رجسٹر کریں</string>
+    <string name="email">ای میل</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="detect_crop_disease">یہاں فصل کی بیماری کا پتہ لگائیں!</string>
+
+    <string name="confirm_password">پاس ورڈ کی تصدیق کریں</string>
+    <string name="dont_have_account">اکاؤنٹ نہیں ہے؟</string>
+    <string name="enter_email">اپنا ای میل درج کریں</string>
+    <string name="enter_password">اپنا پاس ورڈ درج کریں</string>
+</resources>

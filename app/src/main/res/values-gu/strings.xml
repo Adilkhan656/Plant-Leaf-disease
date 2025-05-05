@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">પાક ચેકર</string>
+    <string name="home">હોમ</string>
+    <string name="capture">કૅપ્ચર</string>
+    <string name="settings">સેટિંગ્સ</string>
+    <string name="language">ભાષા</string>
+    <string name="notifications">સૂચનાઓ</string>
+    <string name="contact_support">સહાય માટે સંપર્ક કરો</string>
+    <string name="about_app">એપ વિશે</string>
+    <string name="logout">લૉગઆઉટ</string>
+    <string name="choose_language">ભાષા પસંદ કરો</string>
+    <string name="select_from_gallery">ગેલેરીમાંથી પસંદ કરો</string>
+    <string name="click_to_predict">અନુમાન માટે ક્લિક કરો</string>
+    <string name="detect_crop_disease">અહીં ખેતીની બિમારી શોધો!</string>
+    <string name="camera">કેમેરા</string>
+    <string name="gallery">ગેલરી</string>
+    <string name="prediction_result">પ્રેડિક્શન રિઝલ્ટ</string>
+    <string name="history">હિસ્ટોરી</string>
+    <string name="upload_your_image_here">આQUI આપની છબી અપલોડ કરો</string>
+    <string name="quick_detection_better_protection">જaldi ડેટેક્શન. બેટ્ટર પ્રોટેક્શન.</string>
+    <string name="disease_name">બીમારીનું નામ</string>
+    <string name="timestamp">ટાઇમસ્ટેમ્પ</string>
+    <string name="welcome_message">ક્રોપ ચેકર 𓆑</string>
+    <string name="sign_in">સાઇન ઇન</string>
+    <string name="sign_up">સાઇન અપ</string>
+    <string name="email">ઇમેઇલ</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="confirm_password">પાસવર્ડની પુષ્ટિ કરો</string>
+    <string name="dont_have_account">એકાઉન્ટ નથી?</string>
+    <string name="enter_email">તમારું ઇમેઇલ દાખલ કરો</string>
+    <string name="enter_password">તમારું પાસવર્ડ દાખલ કરો</string>
+</resources>

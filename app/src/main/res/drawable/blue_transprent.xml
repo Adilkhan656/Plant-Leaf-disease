@@ -1,0 +1,5 @@
+<!-- res/drawable/blue_transparent_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color= "#8A1D503A" /> <!-- Semi-transparent blue -->
+    <corners android:radius="16dp" />   <!-- Optional: Add rounded corners -->
+</shape>

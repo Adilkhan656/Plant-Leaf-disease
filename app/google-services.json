@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853247663296",
+    "project_id": "cropchecker-3dcf6",
+    "storage_bucket": "cropchecker-3dcf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853247663296:android:65f79bf031d2363509a125",
+        "android_client_info": {
+          "package_name": "com.example.cropchecker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsL2_dOOmDE-wroBtXAPFIUjRkDNkTcek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

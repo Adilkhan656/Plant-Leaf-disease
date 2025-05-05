@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">பயிர் சரிபார்ப்பு</string>
+    <string name="home">முகப்பு</string>
+    <string name="capture">பிடி</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="language">மொழி</string>
+    <string name="notifications">அறிவிப்புகள்</string>
+    <string name="contact_support">ஆதரவை தொடர்பு கொள்ள</string>
+    <string name="about_app">ஆப்பை பற்றி</string>
+    <string name="logout">வெளியேறு</string>
+    <string name="choose_language">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="select_from_gallery">கேலரியிலிருந்து தேர்வு செய்க</string>
+    <string name="detect_crop_disease">இங்கே பயிர் நோயைப் கண்டறியவும்!</string>
+
+    <string name="click_to_predict">முன்கணிக்க கிளிக் செய்யவும்</string>
+
+    <string name="camera">கேமரா</string>
+    <string name="gallery">கலைக்காட்சி</string>
+    <string name="prediction_result">அறிவிப்பு விளைவு</string>
+    <string name="history">வரலாறு</string>
+    <string name="upload_your_image_here">இங்கு உங்கள் படம் பதிவேற்றுக</string>
+    <string name="quick_detection_better_protection">சுமார் அறிவிப்பு. மேலும் பாதுகாப்பு.</string>
+    <string name="disease_name">பாதிப்பு பெயர்</string>
+    <string name="timestamp">செய்திகாலம்</string>
+    <string name="welcome_message">கிராப் செக்கர்𓆑</string>
+    <string name="sign_in">உள்நுழை</string>
+    <string name="sign_up">பதிவுபெறு</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="confirm_password">கடவுச்சொல்லை உறுதி செய்</string>
+    <string name="dont_have_account">கணக்கு இல்லையா?</string>
+    <string name="enter_email">மின்னஞ்சலை உள்ளிடவும்</string>
+    <string name="enter_password">கடவுச்சொல்லை உள்ளிடவும்</string>
+</resources>

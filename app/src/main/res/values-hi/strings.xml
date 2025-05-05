@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">क्रॉप चेकर</string>
+    <string name="home">होम</string>
+    <string name="capture">कैप्चर</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="language">भाषा</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="contact_support">सहायता संपर्क करें</string>
+    <string name="about_app">ऐप के बारे में</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="choose_language">भाषा चुनें</string>
+    <string name="select_from_gallery">गैलरी से चुनें</string>
+    <string name="detect_crop_disease">यहाँ फसल की बीमारी का पता लगाएं!</string>
+    <string name="welcome_message">क्रॉप चेकर 𓆑</string>
+
+
+    <string name="click_to_predict">पूर्वानुमान के लिए क्लिक करें</string>
+
+    <string name="camera">कैमरा</string>
+    <string name="gallery">गैलरी</string>
+    <string name="prediction_result">निर्धारण परिणाम</string>
+    <string name="history">इतिहास</string>
+    <string name="upload_your_image_here">यहां अपनी तस्वीर अपलोड करें</string>
+    <string name="quick_detection_better_protection">जल्दी से पता लगाएँ। बेहतर सुरक्षा।</string>
+    <string name="disease_name">बीमारी का नाम</string>
+    <string name="timestamp">टाइमस्टैम्प</string>
+    <string name="sign_in">साइन इन</string>
+    <string name="sign_up">साइन अप</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="dont_have_account">कोई खाता नहीं है?</string>
+    <string name="enter_email">अपना ईमेल दर्ज करें</string>
+    <string name="enter_password">अपना पासवर्ड दर्ज करें</string>
+</resources>
