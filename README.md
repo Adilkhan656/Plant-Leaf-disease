@@ -4,6 +4,8 @@
 This Android application helps users detect diseases in plant leaves using AI-powered image classification. It provides disease details, remedies, and a seamless user experience with local history, multilingual support, and more.
 
 ---
+![App Screenshot](https://raw.githubusercontent.com/Adilkhan656/Plant-Leaf-disease/master/APP%20UI.jpeg)
+
 
 ## 📚 Table of Contents
 
@@ -50,7 +52,7 @@ This Android application helps users detect diseases in plant leaves using AI-po
 
 ---
 
-
+![App Screenshot](https://raw.githubusercontent.com/Adilkhan656/Plant-Leaf-disease/master/APP%20UI.jpeg)
 
 ## 🛠️ Tech Stack
 
@@ -63,6 +65,7 @@ This Android application helps users detect diseases in plant leaves using AI-po
 - **Email Intent for Support**
 
 ---
+
 
 ## 🚀 Getting Started
 
